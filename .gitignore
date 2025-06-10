@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+build/
+dist/
+
+# NLTK data (downloaded locally)
+nltk_data/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Example input file if it's meant to be modified or is very large
+# read.txt 
+# (Uncomment the above line if read.txt is just a sample and not part of the source control)
+
+# Virtual environment
+venv/
+env/
